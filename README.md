@@ -10,7 +10,7 @@ The Adventure Works company generates large volumes of sales, customer, and prod
 
 - Step 1 : Data Import & Preparation – Loaded the Adventure Works dataset into Power BI, cleaned and structured the data for analysis.
 
-- Step 2 : Data Modeling – Created relationships between tables (sales, customers, products, geography) and built a star schema for smooth reporting.
+- Step 2 : Data Modeling – Created relationships between tables (sales, customers, products....) and built a snowflake schema for smooth reporting.
 
 - Step 3 : DAX Measures – Wrote DAX formulas to calculate KPIs like Revenue, Profit, Orders, Returns, and Return Rate.
 
